@@ -7,8 +7,9 @@
 </div>
 
 ---
+[My Cheat Sheet](https://excalidraw.com/#json=6FTBdPHi1HrAI4eOaB2q8,Arm0Gj_VO74VsSfTkzpebQ)
 
-**"In computer science, the two most challenging problems are cache invalidation and naming things."** - A wisdom shared by seasoned software engineers.
+>**"In computer science, the two most challenging problems are cache invalidation and naming things."** - A wisdom shared by seasoned software engineers.
 
 ---
 
